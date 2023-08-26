@@ -166,4 +166,4 @@ async def pranav(ctx):
 #  await ctx.send(result)
 
 
-client.run("NzQ4NTE2MzY5MDg3MzMyNDM2.X0ekMQ.-WbXEOZSGkl7tNtbdCbIweuH8a0")
+
